@@ -18,9 +18,17 @@ information density and terminal feel of neofetch.
 - **Role:** Backend / Product Engineer
 - **Focus:** TypeScript APIs, PostgreSQL and BigQuery workflows, AI automation
 - **Builds:** product systems for lead qualification, operations, and decisions
-- **Stack:** TypeScript, Bun, Node.js, React, SQL, BigQuery
-- **Tooling:** OpenAPI, Vitest, Docker, GitHub Actions
-- **Projects:** Simulark, EcoRoute, Chronosphere
+
+### Stack
+
+- **Backend:** TypeScript, Bun, Node.js, REST APIs, PostgreSQL
+- **AI / ML:** AI-assisted workflows, OpenRouter, LLM architecture tools
+- **Infra:** Docker, GitHub Actions, testing and deployment workflows
+- **Tools / IT:** BigQuery, Power BI, Postman, Git
+
+### Selected projects
+
+Simulark, EcoRoute, and Chronosphere.
 
 ## Constraints
 
